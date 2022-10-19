@@ -1,5 +1,5 @@
-%SHIVAM GUPTA (UFID - 8981 1346)(shivamgupta1@ufl.edu)
-%CAROLINE FEDELE (UFID - 3730 1999)(cfedele@ufl.edu)
+%SHIVAM GUPTA
+%CAROLINE FEDELE
 -module(project1).
 
 % String in Erlang - This module provides functions for string processing.
